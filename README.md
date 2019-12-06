@@ -1,21 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@epignatelli 
-4
-32BHoM/BHoM_UI
- Code Issues 27 Pull requests 1 Actions Projects 2 Wiki Security Insights
-BHoM_UI
-/
-README.md
- 
-
-1
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 2
 # BHoM
